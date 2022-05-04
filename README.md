@@ -1,27 +1,47 @@
-# 02GifsApp
+# **GifsApp**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+Este proyecto fue elaborado con [Angular CLI](https://github.com/angular/angular-cli) versión 13.3.3.
+## **Funcionalidad**
 
-## Development server
+Esta aplicación permite:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Obtener Gifs mediante el consumo de una API.
+- Mantener los Gifs en el LocalStorage del navegador.
 
-## Code scaffolding
+## **Temas**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
+Este es un breve listado de los temas fundamentales aplicados en la elaboración de la aplicación:
 
-## Build
+- Modularización.
+- Componentes.
+- ViewChild.
+- Servicios.
+- Historial de búsquedas.
+- Uso de Api Key de Giphy.
+- LocalStorage.
+- Construcción de interfaces con Quicktype
+- Peticiones HTTP.
+- Animaciones mediante css.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+## **Aplicación Netlify**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+La aplicación se encuentra desplegada en:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+https://vermillion-chebakia-15108e.netlify.app/
 
-## Further help
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## **Recomendaciones**
+
+<br>
+
+- Recuerden reconstruir los módulos de Node con `npm install`
+
+- Para correr el servidor de desarrollo ejecute `ng serve -o`. La aplicación se recargará automáticamente si cambia cualquiera de los archivos de origen.
+
+- Si desea compilar el proyecto ejecute `ng build`.
