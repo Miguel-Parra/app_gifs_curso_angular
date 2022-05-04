@@ -32,7 +32,7 @@ Este es un breve listado de los temas fundamentales aplicados en la elaboración
 
 La aplicación se encuentra desplegada en:
 
-https://vermillion-chebakia-15108e.netlify.app/
+https://gifsapp-mp.netlify.app/
 
 <br>
 
